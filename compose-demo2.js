@@ -2,7 +2,7 @@
  *                          [   COMPOSE REDUX FUNCTION]
  */
 
-
+  
 import { compose } from "redux";
 
 function removeSpaces(str){
